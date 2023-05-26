@@ -1,2 +1,1 @@
-Importland information
-New string
+new number
