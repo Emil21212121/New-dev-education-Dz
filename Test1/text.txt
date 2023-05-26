@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 new info relise
+=======
+Importland information
+>>>>>>> 2982abf (new_commit1)
